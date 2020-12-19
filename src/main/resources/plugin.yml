@@ -1,0 +1,5 @@
+name: CSVConverter
+main: dev.longeh.eco.EcoSheetGenerator
+version: 1.0-SNAPSHOT
+author: Longeh
+depend: [ShopGUIPlus]
